@@ -52,7 +52,7 @@ h2 {
     color: white;
  }
 .socialbox {
-    width:150px;
+    width: 150px;
     position: fixed;
     top: 145px;
     right: 100px;
@@ -60,9 +60,6 @@ h2 {
     border: none;
     color: white;
  }
-
-
-
 .myButton:hover, #contactbox:hover {
     background-color: #eb675e;
     color: white;
